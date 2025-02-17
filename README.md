@@ -27,3 +27,5 @@ Jogar:
 O jogo irá exibir uma interface onde você pode tentar adivinhar a palavra.
 Cada tentativa errada diminuirá o número de tentativas restantes.
 O objetivo é adivinhar a palavra antes que as tentativas acabem!
+
+LINK DO VÍDEO DA EXECUÇÃO DO PROGRAMA: https://youtu.be/362sBdnwerE
