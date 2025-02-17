@@ -1,0 +1,10 @@
+Alimentos
+Arroz;Base da alimentação de muitas culturas.
+Queijo;Derivado do leite, usado em pizzas.
+Pizza;Comida italiana, com diversos sabores.
+Chocolate;Doce feito de cacau, muito apreciado.
+Banana;Fruta amarela com potássio.
+Batata;Ingrediente para purês e frituras.
+Carne;Fonte de proteínas, muito consumida.
+Leite;Vaca produz.
+Morango;Alimento vermelho com sementes.

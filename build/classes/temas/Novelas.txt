@@ -1,0 +1,12 @@
+Novelas
+Avenida Brasil;Sucesso brasileiro com vilã marcante.
+Carrossel;Famosa trama infantil de uma escola.
+Caminho das Indias;Retrata a cultura indiana.
+O Clone;História sobre clones e dilemas humanos.
+Pantanal;Trama ambientada no bioma brasileiro.
+Amor a Vida;Trama médica com vilão inteligente.
+Chiquititas;Novela infantil sobre órfãos.
+Malhacao;Série adolescente de longa duração.
+Rebelde;Novela mexicana sobre música.
+Senhora do Destino;Trama sobre mãe em busca da filha.
+

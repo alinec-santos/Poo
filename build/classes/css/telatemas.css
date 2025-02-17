@@ -1,0 +1,70 @@
+/* Fundo da janela */
+.root {
+    -fx-background-color: #2E2E2E; /* Cor de fundo escura */
+}
+
+/* Estilização dos CheckBoxes */
+.check-box {
+    -fx-text-fill: #FFFFFF; /* Cor do texto branco */
+    -fx-font-size: 16px;    /* Tamanho da fonte */
+    -fx-font-family: "Verdana", sans-serif;
+}
+
+.check-box .box {
+    -fx-background-color: #444444; /* Fundo da caixa escuro */
+    -fx-border-color: #FFFFFF;     /* Borda branca */
+    -fx-border-radius: 3;
+    -fx-background-radius: 3;
+}
+
+.check-box:selected .mark {
+    -fx-background-color: #FFD700; /* Cor amarela para o check */
+}
+
+/* Botão INICIAR */
+.button {
+    -fx-background-color: linear-gradient(#fcd24f, #fcd24f); /* Amarelo sólido */
+    -fx-font-family: "Verdana", sans-serif;
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2E2E2E; /* Texto escuro */
+    -fx-background-radius: 15; /* Bordas arredondadas */
+    -fx-border-color: #000080; /* Azul escuro */
+    -fx-border-radius: 15;
+    -fx-padding: 8 16; /* Espaço interno do botão */
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#FFD700, #FFC700); /* Amarelo brilhante */
+    -fx-cursor: hand; /* Mãozinha ao passar o mouse */
+}
+
+/* Botão: clicado */
+.button:pressed {
+    -fx-background-color: #FFC700; /* Cor de clique */
+    -fx-translate-y: 2; /* Efeito de "afundamento" */
+}
+
+/* Títulos da tela */
+.label {
+    -fx-font-size: 28px; /* Tamanho grande para título */
+    -fx-text-fill: #FFFFFF; /* Texto branco */
+    -fx-font-weight: bold;
+    -fx-font-family: "Verdana", sans-serif;
+    -fx-effect: dropshadow(gaussian, #000000, 5, 0, 1, 1); /* Sombra preta */
+}
+
+/* Efeito para a seleção de itens */
+.check-box:hover {
+    -fx-background-color: #3A3A3A; /* Fundo mais escuro ao passar o mouse */
+    -fx-cursor: hand;
+}
+
+/* Caixa da interface */
+#container-temas {
+    -fx-background-color: #383838;
+    -fx-border-color: #000080;
+    -fx-border-width: 3;
+    -fx-border-radius: 8;
+    -fx-padding: 15;
+}

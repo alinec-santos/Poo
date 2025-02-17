@@ -1,0 +1,12 @@
+Esportes
+Futebol;Jogado com os pés e muito popular.
+Basquete;Esporte com cestas e bolas grandes.
+Natacao;Prática de esportes na água.
+Tenis;Jogado com raquete e bola pequena.
+Volei;Esporte com rede, jogado em duplas ou times.
+Corrida;Modalidade de atletismo de velocidade.
+Boxe;Combate entre dois pugilistas.
+Surfe;Esporte em cima de uma prancha no mar.
+Judo;Arte marcial e esporte olímpico.
+Ciclismo;Praticado com bicicletas em estradas ou trilhas.
+

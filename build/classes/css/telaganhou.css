@@ -1,0 +1,19 @@
+/* Botão padrão */
+.button {
+    -fx-background-color: linear-gradient(#fcd24f, #fcd24f); /* Degradê amarelo */
+    -fx-font-family: "Verdana", sans-serif; /* Fonte mais forte */
+    -fx-font-weight: bold; /* Fonte negrito */
+    -fx-text-fill: #2E2E2E; /* Cor do texto */
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 20; /* Bordas arredondadas */
+    -fx-border-color: #000080; /* Borda azul escura */
+    -fx-border-radius: 15;
+    -fx-padding: 10 20; /* Padding interno */
+}
+
+/* Botão quando o mouse passa por cima */
+.button:hover {
+    -fx-background-color: linear-gradient(#FFD700, #FFC700); /* Amarelo brilhante */
+    -fx-cursor: hand;
+}

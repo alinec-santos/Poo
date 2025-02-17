@@ -1,0 +1,12 @@
+Profissoes
+Medico;Profissional que cuida da saúde.
+Professor;Ensina em escolas ou universidades.
+Engenheiro;Desenvolve projetos e soluções técnicas.
+Advogado;Atua em tribunais defendendo pessoas.
+Policial;Mantém a ordem e a segurança.
+Bombeiro;Combate incêndios e salva vidas.
+Veterinario;Cuida da saúde dos animais.
+Artista;Cria obras de arte ou atua em espetáculos.
+Chef;Especialista em culinária e cozinha.
+Motorista;Conduz veículos como carros e ônibus.
+
