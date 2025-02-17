@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="593.0" prefWidth="935.0" styleClass="mainFxmlClass" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.TelaInicialController">
+    <stylesheets>
+        <URL value="@css/telainicial.css" />
+    </stylesheets>
+   <children>
+      <AnchorPane layoutX="-3.2" prefHeight="593.0" prefWidth="1122.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="-3.0" AnchorPane.rightAnchor="-184.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <Button fx:id="btnjogar" layoutX="357.0" layoutY="456.0" mnemonicParsing="false" onAction="#handleJogarAction" prefHeight="86.0" prefWidth="249.0" text="START" />
+            <ImageView fitHeight="115.0" fitWidth="257.0" layoutX="599.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../imgs/botões.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="309.0" fitWidth="440.0" layoutX="66.0" layoutY="58.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../imgs/forca.png" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="242.0" fitWidth="401.0" layoutX="403.0" layoutY="214.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../imgs/forcaEscrito.png" />
+               </image>
+            </ImageView>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

@@ -1,0 +1,11 @@
+ANIMAIS
+Elefante;Maior mamífero terrestre.
+Golfinho;Mamífero aquático muito inteligente.
+Gato;Felino popular como animal de estimação.
+Cachorro;Conhecido como o melhor amigo do homem.
+Arara;Ave colorida encontrada na Amazônia.
+Cobra;Animal que rasteja, pode ser venenosa.
+Cavalo;Animal usado para transporte e competições.
+Jacare;Répteis encontrados em pântanos e rios.
+Tubarao;Predador marinho temido.
+Pinguim;Ave que não voa e vive em regiões frias.

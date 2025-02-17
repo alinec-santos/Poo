@@ -1,0 +1,43 @@
+/* Fundo da janela */
+.root {
+    -fx-background-color: #2E2E2E; /* Cor de fundo escura */
+}
+
+/* Texto do título */
+.label {
+    -fx-font-size: 36px;
+    -fx-text-fill: #FFFFFF; /* Texto branco */
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow(gaussian, #000000, 5, 0, 1, 1); /* Sombra */
+}
+
+/* Botão padrão */
+.button {
+    -fx-background-color: linear-gradient(#fcd24f, #fcd24f); /* Degradê amarelo */
+    -fx-font-family: "Verdana", sans-serif; /* Fonte mais forte */
+    -fx-font-weight: bold; /* Fonte negrito */
+    -fx-text-fill: #2E2E2E; /* Cor do texto */
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-background-radius: 20; /* Bordas arredondadas */
+    -fx-border-color: #000080; /* Borda azul escura */
+    -fx-border-radius: 15;
+    -fx-padding: 10 20; /* Padding interno */
+}
+
+/* Botão quando o mouse passa por cima */
+.button:hover {
+    -fx-background-color: linear-gradient(#FFD700, #FFC700); /* Amarelo brilhante */
+    -fx-cursor: hand;
+}
+
+/* Ícones de ajuda e configurações */
+.icon-button {
+    -fx-background-color: transparent;
+    -fx-padding: 5;
+}
+
+.icon-button:hover {
+    -fx-background-color: #444444; /* Fundo mais escuro ao passar o mouse */
+    -fx-border-radius: 50;
+}

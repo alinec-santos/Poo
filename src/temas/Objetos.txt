@@ -1,0 +1,12 @@
+Objetos
+Mesa;Móvel usado para refeições ou estudos.
+Copo;Usado para beber líquidos.
+Prato;Peça onde alimentos são servidos.
+Ventilador;Gera vento para refrescar o ambiente.
+Lampada;Ilumina ambientes internos.
+Faca;Utilizada para cortar alimentos.
+Sofa;Móvel confortável para sentar.
+Geladeira;Mantém alimentos frescos.
+Guarda-chuva;Protege da chuva.
+Tesoura;Corta papel ou tecido.
+

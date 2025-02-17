@@ -1,0 +1,12 @@
+Diversos
+Relogio;Marca o tempo no pulso ou parede.
+Chave;Usada para abrir portas e cadeados.
+Livro;Fonte de conhecimento e histórias.
+Espelho;Mostra seu reflexo.
+Celular;Dispositivo usado para comunicação moderna.
+Computador;Máquina que processa informações digitais.
+Cadeira;Usada para sentar.
+Mesa;Móvel para refeições ou trabalho.
+Dinheiro;Utilizado para compras e transações.
+Mochila;Usada para carregar objetos.
+

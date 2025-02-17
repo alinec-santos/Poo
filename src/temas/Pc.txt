@@ -1,0 +1,22 @@
+Países e cidades
+Brasil;Maior país da América do Sul.
+Estados Unidos;Potência mundial na América do Norte.
+China;País mais populoso do mundo.
+India;Grande país com diversidade cultural.
+Canadá;País conhecido por suas paisagens geladas.
+Japão;Terra do sol nascente e tecnologias avançadas.
+Australia;Ilha continente cercada por oceanos.
+Alemanha;País europeu de grande indústria.
+Franca;Famoso por sua cultura e culinária.
+Italia;Conhecida por sua arte e gastronomia.
+Paris;Cidade do amor e da Torre Eiffel.
+Rio de Janeiro;Cidade maravilhosa do Brasil.
+Nova York;Cidade que nunca dorme.
+Toquio;Capital moderna do Japão.
+Londres;Capital da Inglaterra e do Big Ben.
+Sao Paulo;Maior cidade do Brasil.
+Dubai;Famosa por arranha-céus e luxos.
+Sidney;Cidade costeira na Austrália.
+Buenos Aires;Capital da Argentina, terra do tango.
+Moscou;Capital histórica da Rússia.
+
